@@ -1,2 +1,4 @@
-On this repository i have dropped all the tasks and codes used for C
-This Repo is the next level programming attained and it is simply real.
+Third Repository of My ALX C Programming.
+A full stack programmer
+This is the hello world programming on c
+All program and readme files were dropped from the shell.
