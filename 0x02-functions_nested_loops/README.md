@@ -5,3 +5,4 @@ This is a read me file for all the programs
 //3 checks for lowercase character
 //4 Checks alphabetic characters
 //5 prints the sign of a number
+//6 computes the absolute value of an integer
