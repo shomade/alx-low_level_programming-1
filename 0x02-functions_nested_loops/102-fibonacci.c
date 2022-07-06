@@ -1,23 +1,29 @@
 #include <stdio.h>
 /**
  * main - Prints the add of the Fibonacci numbers
- * Return: Always 0.
+ * Return: Always 0. (Success)
  */
 int main(void)
 {
-	int c;
-	long int n1, n2, fn;
+	long int i, j, k, next;
 
-	n1 = 1;
-	n2 = 2;
-	printf("%1d, %1d", "%1d, %1d");
-	for (c = 0; c < 48; c++)
+	j  = 1;
+
+	k  = 2;
+
+	for (i = 1; i < 50; i++)
 {
-	fn = n1 + n2;
-	printf(", %1d", ", %1d");
-	n1 = n2;
-	n2 = fn;
+	if (j != 20365011074)
+{
+	printf("%1d, ", j);
 }
-	printf("\n");
+	else
+{
+	printf("%1d\n", j);
+}
+	next = j + k;
+	j = k;
+	k = next;
+}
 	return (0);
 }
