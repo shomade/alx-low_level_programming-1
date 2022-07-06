@@ -15,3 +15,4 @@ in sequence are programs and scripts that perform different activities from diff
 //13 Program computes and the sum of all the multiples of 3 or 5 below 1024.
 //14 Program prints the first 50 Fibonacci numbers starting with 1 and 2.
 //15 Program finds and prints the sum of the even valued terms and followed by a new line.
+//16 Program prints and finds the first 98 Fibonacci numbers starting with 1 and 2 then a new line is followed.
