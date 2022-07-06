@@ -7,3 +7,4 @@ This is a read me file for all the programs.
 //5 prints the sign of a number
 //6 computes the absolute value of an integer
 //7 prints last digit of a number
+//8 function that prints every minute of the day of Jack Bauer.
