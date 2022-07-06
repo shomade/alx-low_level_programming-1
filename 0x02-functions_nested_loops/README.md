@@ -9,3 +9,4 @@ in sequence are programs and scripts that perform different activities from diff
 //7 Function prints the last digit of a number.
 //8 Function prints every minute of the day.
 //9 Function prints the 9 times table starting with 0.
+//10 Function adds two integers and returns the result.
