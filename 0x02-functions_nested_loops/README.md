@@ -10,3 +10,4 @@ in sequence are programs and scripts that perform different activities from diff
 //8 Function prints every minute of the day.
 //9 Function prints the 9 times table starting with 0.
 //10 Function adds two integers and returns the result.
+//11 Function prints all natural numbers from n to 98 followed by a new line
