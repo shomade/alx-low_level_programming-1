@@ -4,3 +4,4 @@ This is a read me file for all the programs
 //2 prints 10 times the alphabet in lowercase
 //3 checks for lowercase character
 //4 Checks alphabetic characters
+//5 prints the sign of a number
