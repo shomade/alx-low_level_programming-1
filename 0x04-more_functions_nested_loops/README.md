@@ -12,3 +12,5 @@
 //8 Functions prints a square and follows with a new line.
 //9 Fizz Buzz
 //10 Function prints a triangle followed by a new line.
+//100 Program finds and prints the largest prime factor of the number, followed by a new line.
+//101 Function prints an integer.
