@@ -1,26 +1,39 @@
 #include <stdio.h>
+
 /**
- * main - prints the add of the even-valued
- * fibonnacci numbers.
- * Return:Always 0.
+ * main - Program start point
+ * Description: prints the first 50 Fibonacci numbers, starting with 1 and 2
+ * Return: 0 on success
  */
 int main(void)
 {
-	long int n1, n2, fn, afn;
+	/* starting numbers */
+	long int x = 1;
+	long int y = 2;
 
-	n1 = 1;
-	n2 = 2;
-	fn = afn = 0;
-	while (fn <= 4000000)
-{
-	fn = n1 + n2;
-	n1 = n2;
-	n2 = fn;
-	if ((n1 % 2) == 0)
-{
-	afn += n1;
-}
-}
-	printf("%1d\n", afn);
+	/* counts how many numbers have been computed*/
+	int counter = 2;
+
+	/* temporary variable to hold x */
+	long int tmp;
+
+	printf("%li, %li, ", x, y);
+
+	while (counter < 50)
+	{
+		printf("%li", x + y);
+
+		if (counter == 49)
+			break;
+
+		printf(", ");
+		tmp = x;
+		x = y;
+		y = x + tmp;
+
+		counter++;
+	}
+	putchar('\n');
+
 	return (0);
 }
