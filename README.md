@@ -1,4 +1,11 @@
-Third Repository of My ALX C Programming.
-A full stack programmer
-This is the hello world programming on c
-All program and readme files were dropped from the shell.
+This is a Low Level Programming Basics
+
+All files created from the Terminal have been pushed here accordingly
+
+This is in view the becoming A full stack programmer.
+
+The files created are lessons and projects for C programming.
+
+There are other Repo's created for different levels of programming.
+
+/* You allwoed to view them */
