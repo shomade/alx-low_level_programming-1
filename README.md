@@ -13,8 +13,8 @@
 
 ==> There are other Repo's created for different levels of programming.
 
-==> LISTED HERE ARE THE DIRECTORIES CREATED FOR THIS PROJECT <==
-=========
+# LISTED HERE ARE THE DIRECTORIES CREATED FOR THIS PROJECT
+============
 
 //F1 0x00_Hello_world
 
@@ -25,3 +25,6 @@
 //F4 0x03-Debugging
 
 //F5 0x04-more_functions_nested_loops
+
+//F6 0x05-pointers_arrays_strings
+
