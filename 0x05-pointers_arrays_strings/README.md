@@ -1,5 +1,5 @@
 # INTRODUCTORY README
-# ====
+# 
 
 --> This is the Task 5 of the C proramming language
 
@@ -18,7 +18,7 @@
 --> This read me file contains the whole thing needed to know how and what each file does and how to go about them.
 
 # HERE ARE THE LIST OF FILES IN THIS PROJECT:
-# ====
+# 
 //0-reset_to_98.c --> function takes a pointer to an int as parameter and updates the value it points to to 98.
 
 //1-swap.c -->   function swaps the values of two integers.
