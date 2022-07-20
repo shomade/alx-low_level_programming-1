@@ -1,5 +1,5 @@
 ==> INTRODUCTION TO DIRECTORY ==>
-===================
+#
 
 ==> This is a Low Level Programming Basics.
 
@@ -13,8 +13,8 @@
 
 ==> There are other Repo's created for different levels of programming.
 
-# LISTED HERE ARE THE DIRECTORIES CREATED FOR THIS PROJECT
-============
+# LISTED HERE ARE THE DIRECTORIES CREATED FOR THIS PROJECT AND ALL PROJECT WERE UPDATED ACCURATELY
+#
 
 //F1 0x00_Hello_world
 
@@ -28,3 +28,4 @@
 
 //F6 0x05-pointers_arrays_strings
 
+//F7 0x07-pointers_arrays_strings
