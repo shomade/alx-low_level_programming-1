@@ -31,3 +31,7 @@
 //F7 0x07-pointers_arrays_strings
 
 //F8 0x08-recursion
+
+//F9 0x09-Static libraries
+
+//F10 0x0A-argc_argv
