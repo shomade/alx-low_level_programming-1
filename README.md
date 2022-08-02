@@ -37,3 +37,9 @@
 //F10 0x0A-argc_argv
 
 //F11 0x0B-malloc, free
+
+//F12 0x0C-more_malloc_free
+
+//F13 0x0D-preprocessor
+
+//F14 0x0E-structures_typedef
