@@ -6,4 +6,6 @@
 
 -> Files created were as directed
 
+-> Usage of this file is permitted but credit must be given to the owner of this repo as courtsey demands.
+
 # ALL FILES IS DESIGNED TO MAKE YOU THINK OUTSIDE THE BOX.
