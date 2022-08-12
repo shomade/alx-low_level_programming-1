@@ -45,3 +45,7 @@
 //F14 0x0E-structures_typedef
 
 //F15 0x0F. C - Function pointers
+
+//F16 0x10. C - Variadic functions
+
+//F17 0x12. C - Singly linked lists
