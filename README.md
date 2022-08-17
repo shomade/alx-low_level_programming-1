@@ -48,4 +48,4 @@
 
 //F16 0x10. C - Variadic functions
 
-//F17 0x12. C - Singly linked lists
+//F17 0x12. C - Singly linked listsskjglfk
