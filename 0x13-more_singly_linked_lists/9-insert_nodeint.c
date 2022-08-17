@@ -1,22 +1,43 @@
 #include "lists.h"
-
 /**
- * sum_listint - returns the sum of all the data (n) of
- * a linked list.
- * @head: head of a list.
- *
- * Return: sum of all the data (n).
+ * insert_nodeint_at_index - adds a new node to a linked list
+ *                           at a given position
+ * @head : pointer to the head of the list
+ * @idx  : index of the list where the new node will be added
+ *         (indices start at 0)
+ * @n    : value for the new node to be added
+ * Return: pointer to the new node,
+ *         or NULL - if function fails
  */
-int sum_listint(listint_t *head)
+listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
-	int sum;
+listint_t *new, *temp = *head;
+unsigned int node;
 
-	sum = 0;
-	while (head != NULL)
-	{
-		sum += head->n;
-		head = head->next;
-	}
+new = malloc(sizeof(listint_t));
 
-	return (sum);
+if (new == NULL)
+return (NULL);
+
+new->n = n;
+
+if (idx == 0)
+{
+new->next = temp;
+*head = new;
+return (new);
+}
+
+for (node = 0; node < (idx - 1); node++)
+{
+if (temp == NULL || temp->next == NULL)
+return (NULL);
+
+temp = temp->next;
+}
+
+new->next = temp->next;
+temp->next = new;
+
+return (new);
 }
