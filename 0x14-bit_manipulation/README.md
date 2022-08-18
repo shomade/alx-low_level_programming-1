@@ -1,1 +1,1 @@
-This is a readme for functions pointers as created by Precious sunday
+This is a readme for bit manipulation and all files were from Mr. Precious
