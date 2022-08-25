@@ -49,3 +49,5 @@
 //F16 0x10. C - Variadic functions
 
 //F17 0x12. C - Singly linked listsskjglfk
+
+//F18 0x15. C - File I/O
