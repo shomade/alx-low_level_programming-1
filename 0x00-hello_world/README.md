@@ -1,11 +1,9 @@
-==>THIS IS A README FILE FOR 0X00 HELLO WORLD<==
----------
-==> Contained here are the files and scripts created
+###THIS IS A README FILE FOR 0X00 HELLO WORLD##
 
-==> All files created here according to the order of instruction.
+_All files created here according to the order of instruction._
 
-==>LISTED BELOW ARE THE TASKS AND THIER:<==
---------- 
+*LISTED BELOW ARE THE TASKS AND THIER:*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 //0. Preprocessor script runs a C file through the preprocessor and save the result into another file.
 
 //1. Compiles a C file but does not link.
