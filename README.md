@@ -14,6 +14,6 @@ _There are other Repo's created for different levels of programming._
 
 ###LISTED HERE ARE THE DIRECTORIES CREATED FOR THIS PROJECT AND ALL PROJECT WERE UPDATED ACCURATELY###
 
-**//F1 0x00_Hello_world**
-
-**//F2 0x01-variables_if_else_while**
+[link](https://github.com/engrproama/alx-low_level_programming/tree/master/0x00-hello_world "Project 0- 0x00 Hello World")
+#
+*Project 1: 0x01 Variables If Else While*
